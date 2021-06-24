@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="252fb136-f3e5-423b-8c40-9f5e67c7ead3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4-string-slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-arithmatic-operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-comparison-operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/1-divisible-by-7-but-not-multiple-5.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_distutils_hack/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_distutils_hack/override.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distutils-precedence.pth" afterDir="false" />
@@ -560,6 +558,13 @@
       <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-Hello-World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-comments-basic-variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-data-types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-string-slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/4-string-slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-arithmatic-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/5-arithmatic-operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-comparison-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/6-comparison-operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -599,7 +604,33 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.6-comparison-operators">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1-divisible-by-7-but-not-multiple-5">
+    <configuration name="1-divisible-by-7-but-not-multiple-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/1-divisible-by-7-but-not-multiple-5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="3-data-types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -612,7 +643,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-data-types.py" />
+      <option name="SCRIPT_NAME" value="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning\3-data-types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -633,7 +664,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-string-slicing.py" />
+      <option name="SCRIPT_NAME" value="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning\4-string-slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -654,7 +685,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-arithmatic-operators.py" />
+      <option name="SCRIPT_NAME" value="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning\5-arithmatic-operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -675,7 +706,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-comparison-operators.py" />
+      <option name="SCRIPT_NAME" value="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning\6-comparison-operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -686,6 +717,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1-divisible-by-7-but-not-multiple-5" />
         <item itemvalue="Python.6-comparison-operators" />
         <item itemvalue="Python.5-arithmatic-operators" />
         <item itemvalue="Python.4-string-slicing" />
