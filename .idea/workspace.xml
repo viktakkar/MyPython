@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="252fb136-f3e5-423b-8c40-9f5e67c7ead3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning/10-discounted-price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/7. Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/8-Excercise-gravitational-force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/9-ConditionalExpressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/11-lambdas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/12-functions-as-arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/13-lambda-as-argument.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,28 +50,7 @@
       <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10-discounted-price">
-    <configuration name="1-divisible-by-7-but-not-multiple-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/1-divisible-by-7-but-not-multiple-5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.13-lambda-as-argument">
     <configuration name="10-discounted-price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11-lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/7. Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/11-lambdas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-Excercise-gravitational-force" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12-functions-as-arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +105,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/8-Excercise-gravitational-force.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/12-functions-as-arguments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13-lambda-as-argument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/13-lambda-as-argument.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13-lambda-as-argument" />
+        <item itemvalue="Python.12-functions-as-arguments" />
+        <item itemvalue="Python.11-lambdas" />
         <item itemvalue="Python.10-discounted-price" />
         <item itemvalue="Python.9-ConditionalExpressions" />
-        <item itemvalue="Python.8-Excercise-gravitational-force" />
-        <item itemvalue="Python.7. Test" />
-        <item itemvalue="Python.1-divisible-by-7-but-not-multiple-5" />
       </list>
     </recent_temporary>
   </component>
