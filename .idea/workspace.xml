@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="252fb136-f3e5-423b-8c40-9f5e67c7ead3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning/11-lambdas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/12-functions-as-arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/13-lambda-as-argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week2/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4/Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4/Iterate_over_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4/firstfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Projects/RockPaperScizzors/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/Week2-1-miles-to-feet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/Week2-2-hours-to-seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/Week2-3-perimeter-of-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/Week2-4-area-of-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/week2-10-challange-point-distance-solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2/week2-7-future-value-template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week3/Week3-Challange-quadratic-root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/SimpleExpressions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/1-Hello-World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/1-Hello-World.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +41,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1uO2du5qM5RyMmBgpuWO874jZ3j" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,15 +57,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week 2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Excercises\Coursera\Python Programming Essentials\Week 2" />
+      <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Excercises\Coursera\Python Programming Essentials" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Excercises\Coursera\Pythion Data Representations\Week4" />
+      <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Excercises\Coursera\Python Programming Essentials\Week 2" />
       <recent name="D:\Dropbox\ConfigurationFiles\GIT REPOSITORIES\MyPython\Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13-lambda-as-argument">
-    <configuration name="10-discounted-price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Iterate_over_files">
+    <configuration name="Files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/10-discounted-price.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4/Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11-lambdas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Iterate_over_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/11-lambdas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week4/Iterate_over_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-functions-as-arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Week3-Challange-quadratic-root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/12-functions-as-arguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Week3/Week3-Challange-quadratic-root.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-lambda-as-argument" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/13-lambda-as-argument.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/Coursera/Pythion Data Representations/Week2/lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-ConditionalExpressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rock-paper-scissors-spock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Projects/RockPaperScizzors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/9-ConditionalExpressions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercises/Coursera/Python Programming Essentials/Projects/RockPaperScizzors/first.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,13 +176,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.rock-paper-scissors-spock" />
+      <item itemvalue="Python.Week3-Challange-quadratic-root" />
+      <item itemvalue="Python.lists" />
+      <item itemvalue="Python.Files" />
+      <item itemvalue="Python.Iterate_over_files" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.13-lambda-as-argument" />
-        <item itemvalue="Python.12-functions-as-arguments" />
-        <item itemvalue="Python.11-lambdas" />
-        <item itemvalue="Python.10-discounted-price" />
-        <item itemvalue="Python.9-ConditionalExpressions" />
+        <item itemvalue="Python.Iterate_over_files" />
+        <item itemvalue="Python.Files" />
+        <item itemvalue="Python.lists" />
+        <item itemvalue="Python.rock-paper-scissors-spock" />
+        <item itemvalue="Python.Week3-Challange-quadratic-root" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +218,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
